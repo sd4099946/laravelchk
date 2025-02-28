@@ -1,5 +1,5 @@
 {
-    "name": "laravelpackage/laravelchk_tech",
+    "name": "laravelpkg_tech/laravelchk",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
